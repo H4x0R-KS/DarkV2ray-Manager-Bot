@@ -35,7 +35,7 @@
 
 ```
 sudo -s
-bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/H4x0R-KS/DarkV2ray-Manager-Bot/main/install.sh)
 ```
 
 ### Deploy Bot on Heroku🏃‍♂
